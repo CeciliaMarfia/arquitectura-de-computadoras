@@ -4,10 +4,10 @@ Material teórico-práctico de Arquitectura de Computadoras (Facultad de Inform�
 
 ## Estructura
 
-- `Teoria/`: diapositivas de las clases teóricas.
-- `Practica/`: prácticas y resoluciones.
-- `Parciales/`: parciales de años anteriores.
-- `Final/`: material para preparar el final.
+- `teoria/`: diapositivas de las clases teóricas.
+- `practica/`: prácticas y resoluciones.
+- `parciales/`: parciales de años anteriores.
+- `final/`: material para preparar el final.
 
 ## Temas
 
